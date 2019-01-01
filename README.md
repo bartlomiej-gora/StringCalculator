@@ -2,9 +2,9 @@
 StringCalculator for TDD workshops
 
 
-Before you start:
-Try not to read ahead.
-Do one task at a time. The trick is to learn to work incrementally.
+<b>Before you start:<br>
+Try not to read ahead.<br>
+Do one task at a time. The trick is to learn to work incrementally.<br></b><br>
 Make sure you only test for correct inputs. there is no need to test for invalid inputs for this kata
 This kata is one of the simplest and best ways to practice step-by-step fluent tdd, and provides an easy way to get proficient in a language.
 
